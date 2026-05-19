@@ -22,7 +22,10 @@ Thumbs.db
 .idea/
 *.swp
 
-# Xcode (iOS app, milestone 2+)
+# Xcode
 *.xcuserdata/
 *.xcuserstate
 DerivedData/
+
+# GTFS data
+backend/data/
