@@ -17,8 +17,7 @@ An iOS commuter companion for the Brzeg → Wrocław/Opole train commute. Combin
 - *(Planned)* **Connections**: for each train, the tram/bus connections at Wrocław Główny,
   adjusted for real-time delays.
 
-Opole is intentionally **train-only** (no public city-transit API is available there) — a
-deliberate graceful-degradation case rather than a missing feature.
+Opole is intentionally **train-only** (no public city-transit API is available).
 
 ---
 
